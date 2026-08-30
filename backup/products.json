@@ -1,0 +1,190 @@
+{
+  "products": {
+    "nokos": {
+      "key": "nokos",
+      "title": "Order Nokos (Virtual)",
+      "icon": "📱",
+      "style": "primary",
+      "desc": "Nomor virtual untuk registrasi akun (WA, Telegram, dll). Pilih negara & jumlah yang kamu butuhkan.",
+      "price": "Mulai Rp5.000 / nomor",
+      "note": "Kirim: negara, jumlah nomor, keperluan (WA/TG/dll).",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "script": {
+      "key": "script",
+      "title": "Buy Script",
+      "icon": "📁",
+      "style": "primary",
+      "desc": "Source code bot/tools siap pakai (Telegram bot, WhatsApp bot, tools lain).",
+      "price": "Mulai Rp50.000",
+      "note": "Kirim: nama script yang diinginkan & rencana penggunaan.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "apps_premium": {
+      "key": "apps_premium",
+      "title": "Apps Premium",
+      "icon": "📱",
+      "style": "primary",
+      "desc": "Akun/akses aplikasi premium (streaming, produktivitas, dll).",
+      "price": "Mulai Rp10.000",
+      "note": "Kirim: nama aplikasi & durasi (1 bulan/permanen).",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "admin_panel": {
+      "key": "admin_panel",
+      "title": "Admin Panel",
+      "icon": "🛠",
+      "style": "primary",
+      "desc": "Jasa admin panel (Pterodactyl/lainnya) — setup & maintenance oleh admin kami.",
+      "price": "Nego sesuai kebutuhan",
+      "note": "Kirim: jenis panel, jumlah server, kebutuhan spesifik.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "panel_pterodactyl": {
+      "key": "panel_pterodactyl",
+      "title": "Panel Pterodactyl",
+      "icon": "📡",
+      "style": "primary",
+      "desc": "Panel hosting Pterodactyl siap pakai untuk jualan/hosting bot & server game.",
+      "price": "Mulai Rp25.000/bulan",
+      "note": "Kirim: spesifikasi (RAM/CPU/disk) & domain yang diinginkan (jika ada).",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "reseller_vps": {
+      "key": "reseller_vps",
+      "title": "Reseller VPS",
+      "icon": "🧑‍💼",
+      "style": "primary",
+      "desc": "Jadi reseller VPS kami — dapat harga khusus untuk dijual lagi.",
+      "price": "Nego (harga reseller)",
+      "note": "Kirim: perkiraan jumlah order per bulan.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "vps_do": {
+      "key": "vps_do",
+      "title": "VPS Digital Ocean",
+      "icon": "🖥",
+      "style": "success",
+      "desc": "VPS berbasis Digital Ocean — cocok untuk bot, panel, atau project pribadi.",
+      "price": "Mulai Rp40.000/bulan",
+      "note": "Kirim: spesifikasi (RAM/CPU/disk), region, dan OS yang diinginkan.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "vps_nat": {
+      "key": "vps_nat",
+      "title": "VPS Nat",
+      "icon": "📦",
+      "style": "success",
+      "desc": "VPS Nat (shared IP) — solusi murah untuk kebutuhan ringan.",
+      "price": "Mulai Rp15.000/bulan",
+      "note": "Kirim: spesifikasi yang diinginkan & durasi sewa.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "reseller_panel": {
+      "key": "reseller_panel",
+      "title": "Reseller Panel",
+      "icon": "🤝",
+      "style": "primary",
+      "desc": "Jadi reseller panel hosting kami — dapat harga khusus untuk dijual lagi.",
+      "price": "Nego (harga reseller)",
+      "note": "Kirim: perkiraan jumlah slot/panel per bulan.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "ubot": {
+      "key": "ubot",
+      "title": "Ubot",
+      "icon": "🤖",
+      "style": "primary",
+      "desc": "Jasa pembuatan/setting userbot (WhatsApp/Telegram) sesuai kebutuhan.",
+      "price": "Nego sesuai fitur",
+      "note": "Kirim: platform (WA/TG), fitur yang diinginkan.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "reseller_panel_legal": {
+      "key": "reseller_panel_legal",
+      "title": "Reseller Panel Legal",
+      "icon": "🌟",
+      "style": "primary",
+      "desc": "Reseller panel dengan lisensi/legalitas resmi (bukan bajakan/nulled).",
+      "price": "Nego (harga reseller)",
+      "note": "Kirim: perkiraan jumlah slot/panel per bulan.",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    },
+    "panel_pterodactyl_legal": {
+      "key": "panel_pterodactyl_legal",
+      "title": "Panel Pterodactyl Legal",
+      "icon": "🌐",
+      "style": "primary",
+      "desc": "Panel Pterodactyl dengan lisensi resmi, cocok untuk bisnis jangka panjang.",
+      "price": "Mulai Rp35.000/bulan",
+      "note": "Kirim: spesifikasi (RAM/CPU/disk) & domain yang diinginkan (jika ada).",
+      "stock": "unlimited",
+      "groupLink": "",
+      "zipFileId": "",
+      "type": "nonlink"
+    }
+  },
+  "layout": [
+    [
+      "nokos"
+    ],
+    [
+      "script",
+      "apps_premium"
+    ],
+    [
+      "admin_panel",
+      "panel_pterodactyl"
+    ],
+    [
+      "reseller_vps",
+      "vps_do"
+    ],
+    [
+      "vps_nat"
+    ],
+    [
+      "reseller_panel",
+      "ubot"
+    ],
+    [
+      "reseller_panel_legal"
+    ],
+    [
+      "panel_pterodactyl_legal"
+    ]
+  ]
+}
