@@ -1,10 +1,77 @@
 {
   "whitelist": [
-    "8698012334",
-    8668407449,
-    1349829232,
-    8962795132,
-    8891282244
+    8698012334,
+    8542493049,
+    8055667550,
+    7565486613
   ],
-  "users": {}
+  "users": {},
+  "orders": [
+    {
+      "id": "ORD-MTJTK9CRQ32",
+      "userId": 8698012334,
+      "name": "𝐘𝐮𝐳𝐢 𝐓𝟓",
+      "username": "@Emakloewee",
+      "productKey": "script",
+      "productTitle": "Buy Script",
+      "price": "Mulai Rp50.000",
+      "detail": "-",
+      "status": "dibatalkan",
+      "createdAt": 1788336809307
+    },
+    {
+      "id": "ORD-MTK21CZDZFX",
+      "userId": 8698012334,
+      "name": "𝐘𝐮𝐳𝐢 𝐓𝟓",
+      "username": "@Emakloewee",
+      "productKey": "nokos",
+      "productTitle": "Order Nokos (Virtual)",
+      "price": "Mulai Rp5.000 / nomor",
+      "detail": "-",
+      "status": "menunggu_pembayaran",
+      "createdAt": 1788351044089
+    },
+    {
+      "id": "ORD-MTK21Q2BNSN",
+      "userId": 8698012334,
+      "name": "𝐘𝐮𝐳𝐢 𝐓𝟓",
+      "username": "@Emakloewee",
+      "productKey": "reseller_panel_legal",
+      "productTitle": "Reseller Panel Legal",
+      "price": "Nego (harga reseller)",
+      "detail": "-",
+      "status": "selesai",
+      "createdAt": 1788351061043
+    },
+    {
+      "id": "ORD-MTK25ZOH7H4",
+      "userId": 8698012334,
+      "name": "𝐘𝐮𝐳𝐢 𝐓𝟓",
+      "username": "@Emakloewee",
+      "productKey": "nokos",
+      "productTitle": "Order Nokos (Virtual)",
+      "price": "Mulai Rp5.000 / nomor",
+      "detail": "-",
+      "status": "dibatalkan",
+      "createdAt": 1788351260129
+    }
+  ],
+  "deposits": [
+    {
+      "id": "DEP-MTK25A9H2VO",
+      "userId": 8698012334,
+      "name": "𝐘𝐮𝐳𝐢 𝐓𝟓",
+      "username": "@Emakloewee",
+      "amount": 10000,
+      "status": "selesai",
+      "createdAt": 1788351227189
+    }
+  ],
+  "saldo": {
+    "8698012334": 10000
+  },
+  "vpsStock": {
+    "date": "2026-09-02",
+    "used": 0
+  }
 }
