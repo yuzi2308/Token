@@ -11,7 +11,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "script": {
       "key": "script",
@@ -24,7 +25,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "apps_premium": {
       "key": "apps_premium",
@@ -37,7 +39,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "admin_panel": {
       "key": "admin_panel",
@@ -50,7 +53,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "panel_pterodactyl": {
       "key": "panel_pterodactyl",
@@ -59,11 +63,12 @@
       "style": "primary",
       "desc": "Panel hosting Pterodactyl siap pakai untuk jualan/hosting bot & server game.",
       "price": "Mulai Rp25.000/bulan",
-      "note": "Kirim: spesifikasi (RAM/CPU/disk) & domain yang diinginkan (jika ada).",
+      "note": "Order otomatis: kirim username panel yang diinginkan, lalu pilih RAM. Panel langsung dibuatkan bot setelah pembayaran dikonfirmasi.",
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "panel"
     },
     "reseller_vps": {
       "key": "reseller_vps",
@@ -76,7 +81,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "vps_do": {
       "key": "vps_do",
@@ -85,11 +91,12 @@
       "style": "success",
       "desc": "VPS berbasis Digital Ocean — cocok untuk bot, panel, atau project pribadi.",
       "price": "Mulai Rp40.000/bulan",
-      "note": "Kirim: spesifikasi (RAM/CPU/disk), region, dan OS yang diinginkan.",
+      "note": "Order otomatis: kirim nama VPS & password yang diinginkan. Stok dibatasi per hari oleh Owner.",
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "vps"
     },
     "vps_nat": {
       "key": "vps_nat",
@@ -98,11 +105,12 @@
       "style": "success",
       "desc": "VPS Nat (shared IP) — solusi murah untuk kebutuhan ringan.",
       "price": "Mulai Rp15.000/bulan",
-      "note": "Kirim: spesifikasi yang diinginkan & durasi sewa.",
+      "note": "Order otomatis: kirim nama VPS & password yang diinginkan. Stok dibatasi per hari oleh Owner.",
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "vps"
     },
     "reseller_panel": {
       "key": "reseller_panel",
@@ -115,7 +123,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "ubot": {
       "key": "ubot",
@@ -128,7 +137,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "reseller_panel_legal": {
       "key": "reseller_panel_legal",
@@ -141,7 +151,8 @@
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "normal"
     },
     "panel_pterodactyl_legal": {
       "key": "panel_pterodactyl_legal",
@@ -150,11 +161,12 @@
       "style": "primary",
       "desc": "Panel Pterodactyl dengan lisensi resmi, cocok untuk bisnis jangka panjang.",
       "price": "Mulai Rp35.000/bulan",
-      "note": "Kirim: spesifikasi (RAM/CPU/disk) & domain yang diinginkan (jika ada).",
+      "note": "Order otomatis: kirim username panel yang diinginkan, lalu pilih RAM. Panel langsung dibuatkan bot setelah pembayaran dikonfirmasi.",
       "stock": "unlimited",
       "groupLink": "",
       "zipFileId": "",
-      "type": "nonlink"
+      "type": "nonlink",
+      "category": "panel"
     }
   },
   "layout": [
