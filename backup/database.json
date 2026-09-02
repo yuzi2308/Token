@@ -1,20 +1,15 @@
 {
   "whitelist": [
-    8698012334
+    "8698012334",
+    8668407449,
+    8990553531,
+    8930191123,
+    8632696155,
+    8930639981,
+    8110151023,
+    8978746260,
+    8707616878,
+    1349829232
   ],
-  "users": {},
-  "orders": [
-    {
-      "id": "ORD-MTIE76LLDYD",
-      "userId": 8698012334,
-      "name": "𝐘𝐮𝐳𝐢 𝐓𝟓",
-      "username": "@Emakloewee",
-      "productKey": "panel_pterodactyl",
-      "productTitle": "Panel Pterodactyl",
-      "price": "Mulai Rp25.000/bulan",
-      "detail": "-",
-      "status": "dibatalkan",
-      "createdAt": 1788250538794
-    }
-  ]
+  "users": {}
 }
